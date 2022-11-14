@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --color-pink: 322 100% 66%;
+        --color-lightpink: 321 100% 78%;
+        --color-lightred: 0 100% 63%;
+        --color-verydarkcyan: 192 100% 9%;
+        --color-verypaleblue: 207 100% 98%;
+    }
+}
